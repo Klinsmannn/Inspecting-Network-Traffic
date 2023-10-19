@@ -51,7 +51,7 @@ Go into Azure and create your two virtual machines, one on windows and the other
 <P>
  
 </P>
-Go to your browser and install Wireshark so we can monitor traffic
+Go to your browser and install Wireshark so you can monitor traffic.
 </p>
 <br />
 
